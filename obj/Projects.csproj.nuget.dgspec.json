@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kupuk\\OneDrive\\Desktop\\School\\Year2\\Semester3\\CS165\\Projects\\Projects.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kupuk\\OneDrive\\Desktop\\School\\Year2\\Semester3\\CS165\\Projects\\Projects.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kupuk\\OneDrive\\Desktop\\School\\Year2\\Semester3\\CS165\\Projects\\Projects.csproj",
+        "projectName": "Projects",
+        "projectPath": "C:\\Users\\kupuk\\OneDrive\\Desktop\\School\\Year2\\Semester3\\CS165\\Projects\\Projects.csproj",
+        "packagesPath": "C:\\Users\\kupuk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kupuk\\OneDrive\\Desktop\\School\\Year2\\Semester3\\CS165\\Projects\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kupuk\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

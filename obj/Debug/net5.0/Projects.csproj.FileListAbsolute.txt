@@ -1,0 +1,16 @@
+C:\Users\kupuk\OneDrive\Desktop\School\Year2\Semester3\CS165\Projects\bin\Debug\net5.0\Projects.exe
+C:\Users\kupuk\OneDrive\Desktop\School\Year2\Semester3\CS165\Projects\bin\Debug\net5.0\Projects.deps.json
+C:\Users\kupuk\OneDrive\Desktop\School\Year2\Semester3\CS165\Projects\bin\Debug\net5.0\Projects.runtimeconfig.json
+C:\Users\kupuk\OneDrive\Desktop\School\Year2\Semester3\CS165\Projects\bin\Debug\net5.0\Projects.runtimeconfig.dev.json
+C:\Users\kupuk\OneDrive\Desktop\School\Year2\Semester3\CS165\Projects\bin\Debug\net5.0\Projects.dll
+C:\Users\kupuk\OneDrive\Desktop\School\Year2\Semester3\CS165\Projects\bin\Debug\net5.0\ref\Projects.dll
+C:\Users\kupuk\OneDrive\Desktop\School\Year2\Semester3\CS165\Projects\bin\Debug\net5.0\Projects.pdb
+C:\Users\kupuk\OneDrive\Desktop\School\Year2\Semester3\CS165\Projects\obj\Debug\net5.0\Projects.csproj.AssemblyReference.cache
+C:\Users\kupuk\OneDrive\Desktop\School\Year2\Semester3\CS165\Projects\obj\Debug\net5.0\Projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kupuk\OneDrive\Desktop\School\Year2\Semester3\CS165\Projects\obj\Debug\net5.0\Projects.AssemblyInfoInputs.cache
+C:\Users\kupuk\OneDrive\Desktop\School\Year2\Semester3\CS165\Projects\obj\Debug\net5.0\Projects.AssemblyInfo.cs
+C:\Users\kupuk\OneDrive\Desktop\School\Year2\Semester3\CS165\Projects\obj\Debug\net5.0\Projects.csproj.CoreCompileInputs.cache
+C:\Users\kupuk\OneDrive\Desktop\School\Year2\Semester3\CS165\Projects\obj\Debug\net5.0\Projects.dll
+C:\Users\kupuk\OneDrive\Desktop\School\Year2\Semester3\CS165\Projects\obj\Debug\net5.0\ref\Projects.dll
+C:\Users\kupuk\OneDrive\Desktop\School\Year2\Semester3\CS165\Projects\obj\Debug\net5.0\Projects.pdb
+C:\Users\kupuk\OneDrive\Desktop\School\Year2\Semester3\CS165\Projects\obj\Debug\net5.0\Projects.genruntimeconfig.cache
